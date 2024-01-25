@@ -5,18 +5,18 @@ Welcome to the ISLP Exercise repository! This repository contains my hands-on ex
 In this repository, you'll find practical implementations, and code snippets covering various statistical learning topics. The materials are organized into folders based on different concepts and techniques. Whether you're a beginner looking to understand the basics of statistical learning or an experienced data guy exploring basic topics, this repository aims to provide a comprehensive resource.
 
 ## Folder Structure:
-1. 02_Statistical_Learning: Statistical Learning
-2. 03_Linear_Regression: Implementations and exercises related to linear regression.
-3. 04_Classification: Implementations and exercises related to Classification.
-4. 05_Resampling_Methods: Implementations and exercises related to Resampling Methods and algorithms.
-5. 06_Linear_Model_Selection_and_Regularization: Implementations and exercises related to Linear Model Selection and Regularization.
-6. 07_Moving_Beyond_Linearity: Implementations and exercises related to Moving Beyond Linearity
-7. 08_Tree_Based_Methods: Implementations and exercises related to Tree-Based Methods
-8. 09_Support_Vector_Machines: Implementations and exercises related to Support Vector Machines
-9. 10_Deep_Learning: Implementations and exercises related to Deep Learning
-10. 11_Survival_Analysis_and_Censored_Data: Implementations and exercises related to Survival Analysis and Censored Data
-11. 12_Unsupervised_Learning:  Implementations and exercises related to Unsupervised Learning
-12. 13_Multiple_Testing: Implementations and exercises related to Multiple Testing
+1. **02_Statistical_Learning**: Statistical Learning
+2. **03_Linear_Regression**: Implementations and exercises related to linear regression.
+3. **04_Classification**: Implementations and exercises related to Classification.
+4. **05_Resampling_Methods**: Implementations and exercises related to Resampling Methods and algorithms.
+5. **06_Linear_Model_Selection_and_Regularization**: Implementations and exercises related to Linear Model Selection and Regularization.
+6. **07_Moving_Beyond_Linearity**: Implementations and exercises related to Moving Beyond Linearity
+7. **08_Tree_Based_Methods**: Implementations and exercises related to Tree-Based Methods
+8. **09_Support_Vector_Machines**: Implementations and exercises related to Support Vector Machines
+9. **10_Deep_Learning**: Implementations and exercises related to Deep Learning
+10. **11_Survival_Analysis_and_Censored_Data**: Implementations and exercises related to Survival Analysis and Censored Data
+11. **12_Unsupervised_Learning**:  Implementations and exercises related to Unsupervised Learning
+12. **13_Multiple_Testing**: Implementations and exercises related to Multiple Testing
 
 Feel free to explore the notebooks, experiment with the code, and adapt the exercises to learn the concepts. 
 
