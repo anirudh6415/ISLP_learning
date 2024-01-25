@@ -25,7 +25,7 @@ Feel free to explore the notebooks, experiment with the code, and adapt the exer
 2. Open the Jupyter Notebooks using your preferred environment.
 3. Dive into each folder to explore different statistical learning topics.
 4. Execute the code cells, tweak parameters, and observe the results.
-5. 
+
 I hope this repository serves as a valuable resource for your journey into statistical learning with Python. If you have any questions or suggestions, feel free to open an issue or contribute to make this repository even better!
 
 Happy Learning! 🚀
