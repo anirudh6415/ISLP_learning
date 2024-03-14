@@ -3,10 +3,11 @@ Welcome to the ISLP Exercise repository! This repository contains my hands-on ex
 
 ## Overview:
 In this repository, you'll find practical implementations, and code snippets covering various statistical learning topics. The materials are organized into folders based on different concepts and techniques. Whether you're a beginner looking to understand the basics of statistical learning or an experienced data guy exploring basic topics, this repository aims to provide a comprehensive resource.
+The ISLP (Introduction to Statistical Learning), written by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan Taylor, is considered a gold standard, to use, for students pursuing prerequisites in machine learning. This book which is commonly found to be great in quality gets huge popularity as an introductory guide in the field of Machine Learning and Data Science. <a href="https://www.statlearning.com/"><b>Click here to get PDF</b></a>
 
 ## Folder Structure:
-1. **02_Statistical_Learning**: Statistical Learning
-2. **03_Linear_Regression**: Implementations and exercises related to linear regression.
+1. **02_Statistical_Learning**: [Statistical Learning](https://github.com/anirudh6415/ISLP_learning/tree/main/Exercises/02_Statistical_Learning)
+2. **03_Linear_Regression**: [Implementations and exercises related to linear regression.](https://github.com/anirudh6415/ISLP_learning/tree/main/Exercises/03_Linear_Regression)
 3. **04_Classification**: Implementations and exercises related to Classification.
 4. **05_Resampling_Methods**: Implementations and exercises related to Resampling Methods and algorithms.
 5. **06_Linear_Model_Selection_and_Regularization**: Implementations and exercises related to Linear Model Selection and Regularization.
